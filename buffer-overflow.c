@@ -7,8 +7,9 @@ void User_Input ()
   printf("It is %s", day);
 }
 
+int main ()
+    
 {
-  int main ()
   User_Input();
-  return 0
+  return 0;
 }
